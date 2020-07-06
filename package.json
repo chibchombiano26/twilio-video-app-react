@@ -1,8 +1,9 @@
 {
-  "name": "twilio-video-app-react",
+  "name": "@alucio/video",
   "version": "0.1.0",
   "private": true,
   "license": "Apache-2.0",
+  "main": "lib/src/packages/video/src/main.js",
   "dependencies": {
     "@material-ui/core": "^4.9.1",
     "@material-ui/icons": "^4.9.1",
